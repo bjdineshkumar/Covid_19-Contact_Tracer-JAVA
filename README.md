@@ -3,11 +3,17 @@
 Developed an abstract view of covid detection app using java as a part of final project in the course software development concepts.  
 
 The program makes use of:
+
 •	Abstract data types and data structures 
+
 •	Java implementation
+
 •	Basic algorithms
+
 •	Software development techniques including version control, testing, debugging, and defensive programming
+
 •	Good software program design
+
 •	Database design and use
 
 Description of the program:
